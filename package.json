@@ -1,7 +1,7 @@
 {
-  "name": "nestjs-messages-app",
+  "name": "nestjs-simple-messages-app",
   "version": "1.0.0",
-  "description": "Simple NestJS Message App.",
+  "description": "NestJS Simple Message App.",
   "author": "Johao Perlaza",
   "private": true,
   "license": "UNLICENSED",
